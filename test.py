@@ -7,6 +7,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cv2
 
+#Download dataset from https://drive.google.com/open?id=1wWuxCQJEOQX980LuwSjTBM-EzbOJQtJy
+
 BATCH_SIZE = 5
 MAX_EPOCH = 100
 IMAGE_SIZE = (256,256)
